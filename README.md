@@ -5,7 +5,7 @@ Le mandat inclut la mise en place du domaine, la création des identités, l’i
 
 Ce dépôt contient : 
 
-des captures d’écran des étapes clés
+des captures d’écran des étapes clés 
 
 des scripts PowerShell utilisés
 
