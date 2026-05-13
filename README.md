@@ -12,7 +12,7 @@ des captures d’écran des étapes clés
 
 des scripts PowerShell utilisés
 
-la documentation technique du mandat
+la documentation technique du mandat 
 
 🏗️ Architecture du projet
 Environnement local
