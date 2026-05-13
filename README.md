@@ -3,7 +3,7 @@
 Ce projet consiste à concevoir et déployer une infrastructure Active Directory locale, puis à la connecter à Microsoft Azure / Entra ID afin de créer un environnement hybride.
 Le mandat inclut la mise en place du domaine, la création des identités, l’installation d’Azure AD Connect, la synchronisation des comptes et la validation des connexions cloud.
 
-Ce dépôt contient :
+Ce dépôt contient : 
 
 des captures d’écran des étapes clés
 
