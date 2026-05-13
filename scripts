@@ -4,7 +4,7 @@ Add-WindowsFeature DHCP -IncludeManagementTools
 
 #Pour créer les groupes de gestion DHCP à l'aide de Windows PowerShell, exécutez la commande suivante :
 
-Add-DhcpServerSecurityGroup -Computer DhcpServerName
+Add-DhcpServerSecurityGroup -Computer DhcpServer2
 
 Add-DHCPServerinDC <hostname or IP address of DHCP server>
 
